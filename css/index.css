@@ -1,0 +1,13 @@
+.titulo {
+    font-size: 24px !important;
+
+}
+
+.contenedor {
+    padding: 31px;
+    font-size: 19px;
+    background-color: antiquewhite;
+    color: blue;
+    border-radius: 20px;
+    margin-top: 21px;
+}
